@@ -1,0 +1,3 @@
+A role-base task managment where user have differn roleand permission
+admin user can manage all task and user
+while regular users can only manage their own task...
